@@ -6,6 +6,7 @@ public class Basic {
 		// TODO Auto-generated method stub
 
 		System.out.println("first project");
+		System.out.println("second project");
 	}
 
 }
