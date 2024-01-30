@@ -7,6 +7,7 @@ public class Basic {
 
 		System.out.println("first project");
 		System.out.println("second project");
+		System.out.println("i am doing new code");
 	}
 
 }
